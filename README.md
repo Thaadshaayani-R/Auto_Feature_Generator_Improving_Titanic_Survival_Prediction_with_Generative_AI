@@ -26,5 +26,5 @@ The dataset used in this project is the **Titanic - Machine Learning from Disast
 Part of **Series 3: Generative AI – Elevate Your Data Science Career** from the Generative AI for Data Scientists Specialization.
 
 #### Connect
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/thaadshaayani-rasanehru/)
+[LinkedIn](https://www.linkedin.com/in/thaadshaayani-rasanehru/)
 
